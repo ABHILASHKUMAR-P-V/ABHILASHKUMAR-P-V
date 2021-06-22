@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ABHILASHKUMAR-P-V
-- 👀 I’m interested in chat engine developer
-- 🌱 I’m currently learning web server adminstration and cloud technology
+- 👀 I’m interested in chat engine development
+- 🌱 I’m currently learning 
+ web server adminstration and cloud technology
 - 💞️ I’m looking to collaborate on real time requirement based projects 
 - 📫 contact:abhilashkumarvenkata7@gmail.com
 
